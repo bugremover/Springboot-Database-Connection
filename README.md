@@ -1,4 +1,4 @@
-# 🚀 Spring Boot Multi-Database Example
+# 🚀 Spring Boot Connection with Multi-Database
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.3-green)](https://spring.io/projects/spring-boot)  
 [![Java](https://img.shields.io/badge/Java-17-blue)](https://www.java.com/)  
