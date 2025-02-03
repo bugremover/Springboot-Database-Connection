@@ -1,7 +1,7 @@
 # 🚀 Spring Boot Connection with Multi-Database
 
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.3-green)](https://spring.io/projects/spring-boot)  
-[![Java](https://img.shields.io/badge/Java-17-blue)](https://www.java.com/)  
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.2-green)](https://spring.io/projects/spring-boot)  
+[![Java](https://img.shields.io/badge/Java-21-blue)](https://www.java.com/)  
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 🔥 **Spring Boot Multi-Database Support** 🔥
